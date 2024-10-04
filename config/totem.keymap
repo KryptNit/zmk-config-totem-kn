@@ -138,10 +138,10 @@
         Cal {
             display-name = "Cal";
             bindings = <
-            &trans  &trans  &trans  &trans  &trans           &kp KP_EQUAL  &kp N7  &kp N8      &kp N9  &kp KP_MINUS
-            &trans  &trans  &trans  &trans  &trans           &trans        &kp N4  &kp N5      &kp N6  &kp KP_PLUS
-&kp ESCAPE  &trans  &trans  &trans  &trans  &trans           &trans        &kp N1  &kp N2      &kp N3  &kp KP_DIVIDE  &kp KP_MULTIPLY
-                            &to 0   &trans  &kp BACKSPACE    &kp ENTER     &kp N0  &kp KP_DOT
+            &trans  &trans  &trans  &trans  &trans           &kp EQUAL  &kp N7  &kp N8      &kp N9  &kp KP_MINUS
+            &trans  &trans  &trans  &trans  &trans           &trans     &kp N4  &kp N5      &kp N6  &kp KP_PLUS
+&kp ESCAPE  &trans  &trans  &trans  &trans  &trans           &trans     &kp N1  &kp N2      &kp N3  &kp KP_DIVIDE  &kp KP_MULTIPLY
+                            &to 0   &trans  &kp BACKSPACE    &kp ENTER  &kp N0  &kp KP_DOT
             >;
         };
 
